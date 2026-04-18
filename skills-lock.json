@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "israeli-social-content": {
+      "source": "skills-il/marketing-growth",
+      "sourceType": "github",
+      "computedHash": "a613baab085db5010e7a722d08ecaa163da6f2866c6014fc643d2501d9c2fcd3"
+    }
+  }
+}
