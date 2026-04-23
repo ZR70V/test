@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "skills": {
+    "timeless-api": {
+      "source": "supertools/timeless-skills",
+      "sourceType": "github",
+      "computedHash": "7d61309ae211ddcc019c04837eb4974e539b2cc2c9a3bb79d7d3d293badeb322"
+    },
+    "timeless-scheduling": {
+      "source": "supertools/timeless-skills",
+      "sourceType": "github",
+      "computedHash": "cf08ea2d5fd5b7db1e81d2d3a1bf35cf2cf6c996b0d01a3919f1fe7685ab8f7f"
+    }
+  }
+}
