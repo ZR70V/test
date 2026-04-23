@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "maccabi-pharm-search": {
+      "source": "alexpolonsky/agent-skill-maccabi-pharm-search",
+      "sourceType": "github",
+      "computedHash": "b77c74cad77f1a74a62631292d123b0c9d6c58e46171ad8e6868a5f1b512fee7"
+    }
+  }
+}
