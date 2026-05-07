@@ -1,0 +1,10 @@
+.env
+token.json
+.ms_token_cache.json
+state.json
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/

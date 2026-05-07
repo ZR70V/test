@@ -1,0 +1,7 @@
+msal==1.36.0
+requests==2.33.1
+google-auth==2.51.0
+google-auth-oauthlib==1.4.0
+google-api-python-client==2.196.0
+python-dotenv==1.2.2
+beautifulsoup4==4.14.3
