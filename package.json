@@ -1,0 +1,32 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "tsx src/index.ts",
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZR70V/test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZR70V/test/issues"
+  },
+  "homepage": "https://github.com/ZR70V/test#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "supermemory": "^4.25.4"
+  },
+  "devDependencies": {
+    "@types/node": "^26.1.2",
+    "tsx": "^4.23.9",
+    "typescript": "^7.0.2"
+  }
+}
