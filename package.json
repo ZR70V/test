@@ -1,0 +1,30 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Supermemory-integrated project.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "example": "tsx src/examples/add-and-search.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZR70V/test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZR70V/test/issues"
+  },
+  "homepage": "https://github.com/ZR70V/test#readme",
+  "dependencies": {
+    "supermemory": "^4.25.4"
+  },
+  "devDependencies": {
+    "@types/node": "^26.2.0",
+    "tsx": "^4.23.12",
+    "typescript": "^7.0.2"
+  }
+}
