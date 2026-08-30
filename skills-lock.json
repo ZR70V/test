@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "skills": {
+    "client-context": {
+      "source": "yonatangross/rail-kit",
+      "sourceType": "github",
+      "skillPath": "skills/client-context/SKILL.md",
+      "computedHash": "4da7d266cde4f8180ca204ca7855779eedf367293e1297caae84dfd414f09b4c"
+    },
+    "composio": {
+      "source": "ComposioHQ/composio",
+      "sourceType": "github",
+      "skillPath": "skills/composio/SKILL.md",
+      "computedHash": "60d7d3cf79e25c061030309af40eaa2a9de6df8f6b87977932996a9909232886"
+    },
+    "post-call": {
+      "source": "yonatangross/rail-kit",
+      "sourceType": "github",
+      "skillPath": "skills/post-call/SKILL.md",
+      "computedHash": "8b7820fe0ec104547f6dd231be5999663f92c4c453442d0db63826057bf99f4f"
+    },
+    "prep-call": {
+      "source": "yonatangross/rail-kit",
+      "sourceType": "github",
+      "skillPath": "skills/prep-call/SKILL.md",
+      "computedHash": "f765403cffeec2cbd3f079e1ed169545f7a4f386b4aa7d9954974a3c82f4a5c7"
+    },
+    "sync-call-state": {
+      "source": "yonatangross/rail-kit",
+      "sourceType": "github",
+      "skillPath": "skills/sync-call-state/SKILL.md",
+      "computedHash": "074c25c0a40ff5f00736103ecb65486e49ae38e24ff253e1cd8a63ed2079d1f2"
+    }
+  }
+}
