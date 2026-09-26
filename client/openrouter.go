@@ -9,7 +9,7 @@ import (
 	"github.com/anthropics/anthropic-sdk-go/option"
 )
 
-const OpenRouterBaseURL = "https://openrouter.ai/api/v1"
+const OpenRouterBaseURL = "https://openrouter.ai/api"
 
 type Client struct {
 	anthropic *anthropic.Client
