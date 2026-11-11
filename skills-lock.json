@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "ontopo": {
+      "source": "alexpolonsky/agent-skill-ontopo",
+      "sourceType": "github",
+      "computedHash": "10f07b9c4085a4261fe932c8aefd256ababb91940c261fefcbbffbbdc25d4b7d"
+    }
+  }
+}
